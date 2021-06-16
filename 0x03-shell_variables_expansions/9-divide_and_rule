@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((40 / 40))
+echo $(($POWER / $DIVIDE))
