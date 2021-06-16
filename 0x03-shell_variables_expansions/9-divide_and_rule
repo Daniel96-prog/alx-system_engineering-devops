@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((100 / 34))
+echo $((TRUEKNOWLEDGE + 128))
