@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((POWER /34))
+echo $((100 / 34))
