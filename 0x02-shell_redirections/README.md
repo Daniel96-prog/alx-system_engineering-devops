@@ -1,0 +1,26 @@
+#!/bin/bash
+-rwxr--r-- 1 root root 12 Jun 16 03:13 0-hello_world
+-rwxr--r-- 1 root root 12 Jun 16 03:13 10-no_more_js
+-rwxr--r-- 1 root root 12 Jun 16 03:13 11-directories
+-rwxr--r-- 1 root root 12 Jun 16 03:13 12-newest_files
+-rwxr--r-- 1 root root 12 Jun 16 03:13 13-unique
+-rwxr--r-- 1 root root 12 Jun 16 03:13 14-findthatword
+-rwxr--r-- 1 root root 12 Jun 16 03:13 15-countthatword
+-rwxr--r-- 1 root root 12 Jun 16 03:13 16-whatsnext
+-rwxr--r-- 1 root root 12 Jun 16 03:13 17-hidethisword
+-rwxr--r-- 1 root root 12 Jun 16 03:13 18-letteronly
+-rwxr--r-- 1 root root 12 Jun 16 03:13 19-AZ
+-rwxr--r-- 1 root root 12 Jun 16 03:13 1-confused_smiley
+-rwxr--r-- 1 root root 12 Jun 16 03:13 20-hiago
+-rwxr--r-- 1 root root 12 Jun 16 03:13 21-reverse
+-rwxr--r-- 1 root root 12 Jun 16 03:13 22-users_and_homes
+-rwxr--r-- 1 root root 12 Jun 16 03:13 2-hellofile
+-rwxr--r-- 1 root root 12 Jun 16 03:13 3-twofiles
+-rwxr--r-- 1 root root 12 Jun 16 03:13 4-lastlines
+-rwxr--r-- 1 root root 12 Jun 16 03:13 5-firstlines
+-rwxr--r-- 1 root root 12 Jun 16 03:13 6-third_line
+-rwxr--r-- 1 root root 12 Jun 16 03:13 7-file
+-rwxr--r-- 1 root root 12 Jun 16 03:13 8-cw_state
+-rwxr--r-- 1 root root 12 Jun 16 03:13 9-duplicate_last_line
+-rwxr--r-- 1 root root 12 Jun 16 03:13 README.md
+total 96
